@@ -1,0 +1,18 @@
+export const personMock = {
+  age: 17,
+  entriesIds: [2145883],
+  exact: 0,
+  ha: 0,
+  pid: "732e7919-508d-4cc2-b5a5-3e1b863c7d33",
+  pid_created: "2019-08-02T15:09:37.721778Z",
+  pid_source: { id: 133971, name: "upload" },
+  initial_facesize: 4095,
+  initial_liveness: "",
+  junk: 0,
+  liveness: { failed: 0, passed: 0, undetermined: 0 },
+  reinit: 0,
+  sex: 1,
+  total: 1,
+  initial_face_image: "https://source.unsplash.com/400x400/?face",
+  initial_full_image: "https://source.unsplash.com/420x420/?face",
+};
